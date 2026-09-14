@@ -20,8 +20,6 @@ I perform authorized security assessments covering the complete penetration test
 * Offensive Security Certified Professional Plus — **OSCP+**
 * Offensive Security Experienced Penetration Tester — **OSEP**
 * Certified Web Exploitation Specialist — **CWES**
-* Blue Team Level 1 — **BTL1**
-* Security Analyst Level 1 — **SAL1**
 
 ## Tools and Technologies
 
